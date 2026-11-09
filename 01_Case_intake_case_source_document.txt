@@ -1,0 +1,38 @@
+GLOBAL PHARMACOVIGILANCE - INITIAL SPONTANEOUS ADVERSE EVENT REPORT
+
+RECEIPT DATE: 12-OCT-2026
+SOURCE / INTAKE CHANNEL: Hospital Safety Triage Email / Spontaneous
+
+1. REPORTER INFORMATION:
+   Name: Dr. R. Sharma, MD (Endocrinologist)
+   Facility: Department of Endocrinology, Apollo Hospitals
+   Country: India
+
+2. PATIENT INFORMATION:
+   Identifier / Initials: P.K.
+   Age: 54 Years
+   Sex: Female
+   Weight: 68 kg
+   Relevant Medical History: Type 2 Diabetes Mellitus (diagnosed 6 years ago), Dyslipidemia
+
+3. SUSPECT DRUG INFORMATION:
+   Brand Name: Jardiance
+   Generic / Active Ingredient: Empagliflozin
+   Daily Dose: 10 mg
+   Frequency: Once Daily (Oral)
+   Indication: Glycemic control in Type 2 Diabetes Mellitus
+   Therapy Start Date: 15-AUG-2026
+   Therapy Stop Date: 10-OCT-2026 (Withdrawn post-event)
+
+4. CONCOMITANT MEDICATIONS:
+   Metformin Hydrochloride 500 mg BD (Oral)
+
+5. ADVERSE EVENT DETAILS:
+   Reported Event (Verbatim): Severe high anion gap metabolic ketoacidosis with normal blood glucose levels
+   Event Onset Date: 09-OCT-2026
+   Dechallenge: Positive (Ketoacidosis resolved after drug withdrawal and IV insulin/fluid support)
+   Rechallenge: Not performed
+
+6. SERIOUSNESS ASSESSMENT (ICH E2A):
+   Criteria Met: Results in Hospitalization (Inpatient admission from 09-OCT-2026 to 14-OCT-2026)
+   Seriousness Classification: Serious
